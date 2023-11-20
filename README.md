@@ -10,12 +10,18 @@ Pesquisa de Monstros: Utilizando scripts em Python, é possível realizar pesqui
 
 ## Estrutura do Banco de Dados
 
-O banco de dados bd_bestas possui as seguintes colunas:
+###O banco de dados bd_bestas possui as seguintes colunas:
 
 Tagmar: Informações específicas do monstro em Tagmar.
+
 Pathfinder: Informações específicas do monstro em Pathfinder.
+
 D&D: Informações específicas do monstro em Dungeons & Dragons.
+
 Descrição: Descrição do monstro em Tagmar.
+
 Atributos (Tagmar): Atributos específicos do monstro em Tagmar.
+
 Atributos (Pathfinder): Atributos específicos do monstro em Pathfinder.
+
 Atributos (D&D): Atributos específicos do monstro em Dungeons & Dragons.
