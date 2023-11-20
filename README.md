@@ -6,9 +6,9 @@ Este projeto é uma ferramenta que visa linkar diferentes obras de RPG, utilizan
 
 Desenvolvedores:
 
-Victor Matheus Araújo Oliveira
-
 Erick Ramos Coutinho
+
+Victor Matheus Araújo Oliveira
 
 Orientação:
 
